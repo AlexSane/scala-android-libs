@@ -1,0 +1,4 @@
+<permissions>
+  <library name="scalacheck_2.10.0"
+    file="/data/data/com.mobilemagic.scalainstaller/files/scalacheck_2100.jar"/>
+</permissions>
